@@ -1,0 +1,7 @@
+mediapipe
+opencv-python
+pillow
+numpy
+tkintertable
+zlib-compress
+zlib-decompress
